@@ -1,0 +1,133 @@
+{
+  "personal": {
+    "name": "Samimul Islam Salim",
+    "nickname": "Samimul",
+    "title": "Software Engineering Student",
+    "university": "Daffodil International University",
+    "department": "Software Engineering",
+    "batch": "43",
+    "status": "Running",
+    "phone": "+880130413264",
+    "email": "Salim242-35-384@diu.edu.bd",
+    "location": "Dhaka, Bangladesh",
+    "nationality": "Bangladeshi",
+    "image": "images/profile.jpg",
+    "cv": "cv.pdf"
+  },
+
+  "careerObjective": "A passionate and hardworking Software Engineering student at Daffodil International University with strong interest in Software Development, Artificial Intelligence, Robotics, Embedded Systems and Industrial Automation. Seeking opportunities to apply my programming knowledge, problem solving ability and creativity to real world software projects.",
+
+  "education": [
+    {
+      "degree": "Bachelor of Science (B.Sc.)",
+      "subject": "Software Engineering",
+      "institution": "Daffodil International University",
+      "status": "Running",
+      "batch": "43"
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institution": "Mohonpur Govt College",
+      "board": "Rajshahi",
+      "year": "2023",
+      "gpa": "4.42"
+    },
+    {
+      "degree": "Secondary School Certificate (SSC)",
+      "institution": "Mochmoil M.L. High School",
+      "board": "Rajshahi",
+      "year": "2021",
+      "gpa": "4.78"
+    }
+  ],
+
+  "technicalSkills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "C Programming",
+    "Java",
+    "Object-Oriented Programming",
+    "SQL Database",
+    "Arduino Programming",
+    "Robotics",
+    "Embedded Systems",
+    "Industrial Automation",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Git & GitHub"
+  ],
+
+  "softSkills": [
+    "Leadership",
+    "Teamwork",
+    "Problem Solving",
+    "Critical Thinking",
+    "Communication",
+    "Quick Learning",
+    "Time Management",
+    "Adaptability"
+  ],
+
+  "languages": [
+    "Bangla (Native)",
+    "English (Intermediate)"
+  ],
+
+  "interests": [
+    "Software Development",
+    "Artificial Intelligence",
+    "Web Development",
+    "Robotics",
+    "Embedded Systems",
+    "Industrial Automation",
+    "IoT",
+    "Machine Learning"
+  ],
+
+  "projects": [
+    {
+      "title": "PharmaPoint",
+      "technology": "C Programming",
+      "description": "Medical Store Management System with Admin Panel, Billing System, Stock Management and File Handling."
+    },
+    {
+      "title": "FarmSphere",
+      "technology": "Software Engineering",
+      "description": "Smart Agriculture Monitoring System with SRS, UML, Use Case, Sequence Diagram and DFD."
+    },
+    {
+      "title": "Obstacle Avoiding Robot",
+      "technology": "Arduino",
+      "description": "Arduino based obstacle avoiding robot using Ultrasonic Sensor, Servo Motor and L298N Motor Driver."
+    },
+    {
+      "title": "Optical Detector Robot",
+      "technology": "Arduino",
+      "description": "Automatic optical detector robot using IR Sensor."
+    }
+  ],
+
+  "certificates": [
+    {
+      "title": "Fundamentals of Robotics & Industrial Automation",
+      "issuer": "Coursera"
+    },
+    {
+      "title": "Object-Oriented Programming (Java)",
+      "issuer": "Coursera"
+    }
+  ],
+
+  "social": {
+    "github": "https://github.com/salim242-35-384-crypto",
+    "linkedin": "https://www.linkedin.com/in/md-samimul-islam-salim-4b1264342",
+    "facebook": "https://www.facebook.com/share/1KohyMv4qR/"
+  },
+
+  "footer": {
+    "copyright": "© 2026 Samimul Islam Salim. All Rights Reserved.",
+    "message": "Designed & Developed by Samimul Islam Salim"
+  }
+}
